@@ -1,1 +1,1 @@
-# antiraids
+# Antiraids Discord

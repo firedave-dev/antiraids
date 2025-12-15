@@ -1,0 +1,124 @@
+# Privacy Policy – Sentinelle
+
+## 🇫🇷 Politique de Confidentialité (Français)
+
+### 1. Présentation
+
+Sentinelle est un bot Discord français spécialisé dans la **sécurité**, la **prévention des raids** et la **journalisation des événements** au sein des serveurs Discord.  
+Cette politique de confidentialité explique quelles données peuvent être traitées, dans quel but et comment elles sont protégées.
+
+En utilisant Sentinelle, vous acceptez les pratiques décrites dans ce document.
+
+
+### 2. Données collectées
+
+Sentinelle peut traiter les données suivantes **uniquement dans le cadre de son fonctionnement** :
+
+- Identifiants Discord (ID utilisateur, ID serveur, ID salon)
+- Noms d’utilisateur et pseudonymes
+- Rôles et permissions
+- Messages (uniquement à des fins de modération et d’anti-spam)
+- Événements liés au serveur (arrivées, départs, sanctions, modifications)
+
+⚠️ **Sentinelle ne collecte aucune donnée sensible** au sens du RGPD (informations personnelles réelles, mots de passe, adresses IP, etc.).
+
+### 3. Utilisation des données
+
+Les données sont utilisées exclusivement pour :
+- La protection des serveurs contre les raids et abus
+- La modération automatisée et manuelle
+- La génération de logs à destination du staff
+- L’amélioration de la stabilité et de la sécurité du bot
+
+Les données ne sont **jamais utilisées à des fins commerciales ou publicitaires**.
+
+### 4. Stockage des données
+
+- Les données sont traitées **en temps réel** autant que possible
+- Certaines données peuvent être stockées temporairement pour assurer les fonctionnalités de logs
+- Aucune donnée n’est vendue ou partagée avec des tiers
+- Les données sont supprimées lorsqu’elles ne sont plus nécessaires ou lorsque le bot est retiré du serveur
+
+### 5. Message Content & Presence
+
+- Le contenu des messages est analysé uniquement pour la détection de spam, flood ou comportements malveillants
+- Les données de présence sont utilisées à des fins de sécurité et de modération
+- Aucune analyse à des fins d’IA ou d’entraînement de modèles n’est effectuée
+
+### 6. Droits des utilisateurs
+
+Les utilisateurs peuvent :
+- Demander la suppression des données associées à leur serveur
+- Désactiver certaines fonctionnalités via la configuration du bot
+- Retirer Sentinelle du serveur à tout moment
+
+### 7. Modifications
+
+Cette politique de confidentialité peut être mise à jour à tout moment.  
+Les changements majeurs seront communiqués via les canaux officiels du projet.
+
+### 8. Contact
+
+Pour toute question concernant cette politique de confidentialité :  
+📧 Contact : **daveprocontact@gmail.com**
+
+##  Privacy Policy (English)
+
+### 1. Overview
+
+Sentinelle is a French Discord bot designed for **server security**, **raid prevention**, and **event logging**.  
+This Privacy Policy explains what data may be processed, how it is used, and how it is protected.
+
+By using Sentinelle, you agree to the practices described in this document.
+
+### 2. Data Collected
+
+Sentinelle may process the following data **only for operational purposes**:
+
+- Discord identifiers (User ID, Server ID, Channel ID)
+- Usernames and nicknames
+- Roles and permissions
+- Messages (for moderation and anti-spam purposes only)
+- Server-related events (joins, leaves, sanctions, configuration changes)
+
+⚠️ **Sentinelle does not collect any sensitive personal data** (real names, IP addresses, passwords, etc.).
+
+### 3. Use of Data
+
+Data is used exclusively for:
+- Protecting servers against raids and abuse
+- Automated and manual moderation
+- Generating moderation and security logs
+- Improving the reliability and security of the bot
+
+Data is **never used for advertising or commercial purposes**.
+
+### 4. Data Storage
+
+- Data is primarily processed **in real-time**
+- Some data may be stored temporarily to provide logging features
+- No data is sold or shared with third parties
+- Data is deleted when no longer required or when the bot is removed from a server
+
+### 5. Message Content & Presence
+
+- Message content is analyzed only to detect spam, flooding, or malicious behavior
+- Presence data is used strictly for moderation and security purposes
+- No data is used to train AI or machine learning models
+
+### 6. User Rights
+
+Users may:
+- Request deletion of data associated with their server
+- Disable specific features through bot configuration
+- Remove Sentinelle from their server at any time
+
+### 7. Changes to this Policy
+
+This Privacy Policy may be updated at any time.  
+Significant changes will be announced through official project channels.
+
+### 8. Contact
+
+For any questions regarding this Privacy Policy:  
+📧 Contact: **daveprocontact@gmail.com**
